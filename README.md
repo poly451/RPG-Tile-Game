@@ -11,11 +11,11 @@ There are are 23 parts to the series!
 
 I've modifed some of the code, in part because I want to develop an old-school RPG.
 
-Here is KidsCanCode's youtube page:
+Here is KidsCanCode's (Chris Bradfield's) youtube page:
 https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
 
-Here is KidsCanCode's website:
+Here is Bradfield's website:
 http://kidscancode.org/
 
-Here are the source files KidsCanCode has put up on github:
+Here are the source files Bradfield has put up on github:
 https://github.com/kidscancode/pygame_tutorials/tree/master/tilemap
