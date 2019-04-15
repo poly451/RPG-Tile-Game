@@ -9,7 +9,7 @@ Tile-based game part X.
 
 There are are 23 parts to the series!
 
-I've modifed some of the code, in part because I want to develop an old-school
+I've modifed some of the code, in part because I want to develop an old-school RPG.
 
 Here is KidsCanCode's youtube page:
 https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg
